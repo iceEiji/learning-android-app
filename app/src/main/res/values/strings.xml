@@ -12,5 +12,9 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_web_view">WebView(with html assets)</string>
+    <string name="menu_dialogs">Various Dialogs</string>
+
+    <!-- Various Dialogs -->
+    <string name="button_edit_text_in_dialog">EditText in Dialog</string>
 
 </resources>

@@ -28,4 +28,10 @@
         android:name="com.example.learnandroidapp.ui.web_view.WebViewWithHtmlAssetsFragment"
         android:label="@string/menu_web_view"
         tools:layout="@layout/fragment_web_view_with_html_assets" />
+
+    <fragment
+        android:id="@+id/nav_various_dialogs"
+        android:name="com.example.learnandroidapp.ui.dialog.VariousDialogsFragment"
+        android:label="@string/menu_dialogs"
+        tools:layout="@layout/fragment_various_dialogs" />
 </navigation>
