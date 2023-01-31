@@ -22,4 +22,10 @@
         android:name="com.example.learnandroidapp.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_web_view"
+        android:name="com.example.learnandroidapp.ui.web_view.WebViewWithHtmlAssetsFragment"
+        android:label="@string/menu_web_view"
+        tools:layout="@layout/fragment_web_view_with_html_assets" />
 </navigation>
